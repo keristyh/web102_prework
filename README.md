@@ -34,7 +34,7 @@ GIF created with Imgur: https://imgur.com/a/cg2bY8C
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While working on the challenges, I faced some hurdles grasping new concepts, but the provided resources given helped me reinforce my understanding and apply the knowledge.
 
 ## License
 
